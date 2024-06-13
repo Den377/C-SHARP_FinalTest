@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Denis17\\Desktop\\GeekBrains\\4. Знакомство с языками программирования\\Репозитории С#\\C#_Итоговая контрольная работа\\C#_Итоговая контрольная работа.csproj": {}
+    "C:\\Users\\Denis17\\Desktop\\GeekBrains\\4. Знакомство с языками программирования\\Репозитории С#\\C#_Итоговая контрольная работа\\Code\\Code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Denis17\\Desktop\\GeekBrains\\4. Знакомство с языками программирования\\Репозитории С#\\C#_Итоговая контрольная работа\\C#_Итоговая контрольная работа.csproj": {
+    "C:\\Users\\Denis17\\Desktop\\GeekBrains\\4. Знакомство с языками программирования\\Репозитории С#\\C#_Итоговая контрольная работа\\Code\\Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Denis17\\Desktop\\GeekBrains\\4. Знакомство с языками программирования\\Репозитории С#\\C#_Итоговая контрольная работа\\C#_Итоговая контрольная работа.csproj",
-        "projectName": "C#_Итоговая контрольная работа",
-        "projectPath": "C:\\Users\\Denis17\\Desktop\\GeekBrains\\4. Знакомство с языками программирования\\Репозитории С#\\C#_Итоговая контрольная работа\\C#_Итоговая контрольная работа.csproj",
+        "projectUniqueName": "C:\\Users\\Denis17\\Desktop\\GeekBrains\\4. Знакомство с языками программирования\\Репозитории С#\\C#_Итоговая контрольная работа\\Code\\Code.csproj",
+        "projectName": "Code",
+        "projectPath": "C:\\Users\\Denis17\\Desktop\\GeekBrains\\4. Знакомство с языками программирования\\Репозитории С#\\C#_Итоговая контрольная работа\\Code\\Code.csproj",
         "packagesPath": "C:\\Users\\Denis17\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Denis17\\Desktop\\GeekBrains\\4. Знакомство с языками программирования\\Репозитории С#\\C#_Итоговая контрольная работа\\obj\\",
+        "outputPath": "C:\\Users\\Denis17\\Desktop\\GeekBrains\\4. Знакомство с языками программирования\\Репозитории С#\\C#_Итоговая контрольная работа\\Code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Denis17\\AppData\\Roaming\\NuGet\\NuGet.Config"
